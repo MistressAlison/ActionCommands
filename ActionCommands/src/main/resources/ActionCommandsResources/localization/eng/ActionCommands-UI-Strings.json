@@ -1,0 +1,12 @@
+{
+  "ActionCommands:TimingText": {
+    "TEXT": ["Nice",
+            "Good",
+            "Great",
+            "Wonderful",
+            "Excellent"]
+  },
+  "ActionCommands:SpamClickText": {
+    "TEXT": ["Rapidly click to fill the meter!"]
+  }
+}
